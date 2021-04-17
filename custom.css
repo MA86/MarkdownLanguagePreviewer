@@ -1,0 +1,12 @@
+textarea {
+  width: 100%;
+}
+
+pre {
+  background-color: #f5f5ff;
+}
+
+blockquote {
+  border-left: 3px solid gray;
+  padding-left: 4px;
+}
