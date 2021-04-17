@@ -1,4 +1,4 @@
-# Electronic Drum Pad
+# Markdown Language Previewer
 
 Built a markdown language previewer that can be used to write & preview clean notes for developers.
 
