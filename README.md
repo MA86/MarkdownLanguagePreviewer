@@ -8,4 +8,4 @@ JavaScript (React & JSX), CSS (Bootstrap), and HTML.
 
 # Demonstration
 
-Try this note-taking app yourself, click on this [link](https://ma86.github.io/ElectronicDrumPad/index.html) to check it out.
+Try this note-taking app yourself, click on this [link](https://ma86.github.io/MarkdownLanguagePreviewer/) to check it out.
